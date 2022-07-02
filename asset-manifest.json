@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-typescript-random-api-practice/static/css/main.799207f5.css",
+    "main.js": "/react-typescript-random-api-practice/static/js/main.06cab9ac.js",
+    "index.html": "/react-typescript-random-api-practice/index.html",
+    "main.799207f5.css.map": "/react-typescript-random-api-practice/static/css/main.799207f5.css.map",
+    "main.06cab9ac.js.map": "/react-typescript-random-api-practice/static/js/main.06cab9ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799207f5.css",
+    "static/js/main.06cab9ac.js"
+  ]
+}
