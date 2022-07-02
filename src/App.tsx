@@ -14,7 +14,7 @@ function App() {
 					<Route path="/" element={<Home />} />
 					<Route path="/about" element={<About />} />
 					<Route path="/contact-us" element={<ContactUs />} />
-					<Route path="/react-typescript-random-person-practice" element={<Home/>} />
+					<Route path="/react-typescript-random-api-practice" element={<Home/>} />
 					<Route path="*" element={<NotFound />} />
 				</Routes>
 			</div>
